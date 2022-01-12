@@ -1,0 +1,4 @@
+//https://www.youtube.com/watch?v=HyaT88zs2EU
+npx create-react-app ts-simple-app --template typescript
+npm i bootswatch
+npm i react-icons
